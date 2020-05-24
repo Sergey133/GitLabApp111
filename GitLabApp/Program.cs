@@ -15,6 +15,7 @@ namespace GitLabApp
             double F = 2 * Math.Cos(x);
             Console.WriteLine(F);
             Console.ReadKey();
+
               
         }
     }
