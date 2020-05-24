@@ -12,7 +12,7 @@ namespace GitLabApp
         {
             string s = Console.ReadLine();
             double x = Convert.ToDouble(s);
-            double F = 2 * Math.Cos(x);
+            double F = 8 * Math.Sin(2*x)-Math.Cos(2*x);
             Console.WriteLine(F);
             Console.ReadKey();
 
