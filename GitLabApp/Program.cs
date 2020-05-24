@@ -17,7 +17,6 @@ namespace GitLabApp
             Console.ReadKey();
 
               
-
         }
     }
 }
